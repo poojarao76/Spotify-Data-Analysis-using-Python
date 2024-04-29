@@ -41,18 +41,23 @@ Kaggle Spotify Datasets: [Spotify Tracks](https://www.kaggle.com/datasets/mahars
 **3. Correlation Heatmap between Variable**
 
 ![image](https://github.com/poojarao76/Spotify-Data-Analysis-using-Python/assets/132984172/b628a229-dafd-4caf-883b-8e1441601f67)
+
 **4. Regression plot - Correlation between Loudness and Energy and Correlation between Popularity and Acousticness**
 
 ![image](https://github.com/poojarao76/Spotify-Data-Analysis-using-Python/assets/132984172/3e81de6c-ec16-4450-9c54-674ac5ca11c7)
+
 **5. Duration of songs in different Genres**
 
 ![image](https://github.com/poojarao76/Spotify-Data-Analysis-using-Python/assets/132984172/44c6c6ff-d28e-4ccc-8091-4417d266251e)
+
 **6. Top 5 Genres by Popularity**
 
 ### Usage
 
 * Clone this repository to your local machine.
+  
 * Install the required Python libraries using pip install.
+  
 * Open the Jupyter Notebook Spotify_Data_Analysis.ipynb to view the analysis.
 
 # Author
