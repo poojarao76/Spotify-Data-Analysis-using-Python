@@ -23,7 +23,7 @@ This project explores and quantifies data about music from Spotify, a Swedish au
 
 # Project - Spotify Data Analysis using Python
 
-Kaggle Spotify Datasets: [Spotify Tracks]([url](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)) & [Spotify Features]([url](https://www.kaggle.com/datasets/somumourya/spotifyfeaturescsv-1))
+Kaggle Spotify Datasets: [Spotify Tracks](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) & [Spotify Features]([url](https://www.kaggle.com/datasets/somumourya/spotifyfeaturescsv-1))
 
 ## Objective
 
