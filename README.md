@@ -59,7 +59,3 @@ Kaggle Spotify Datasets: [Spotify Tracks](https://www.kaggle.com/datasets/mahars
 * Install the required Python libraries using pip install.
   
 * Open the Jupyter Notebook Spotify_Data_Analysis.ipynb to view the analysis.
-
-# Author
-
-**Pooja Rao**
